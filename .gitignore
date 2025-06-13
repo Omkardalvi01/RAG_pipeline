@@ -1,0 +1,5 @@
+test.ipynb
+.env*
+lawyer_rag/
+Files/
+*.db

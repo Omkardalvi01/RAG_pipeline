@@ -1,0 +1,12 @@
+pydantic
+langgraph
+fastapi[standard]
+uvicorn
+langchain-google-genai
+langchain-community
+Flask
+pinecone
+langchain-pinecone
+pypdf
+tiktoken
+chromadb
